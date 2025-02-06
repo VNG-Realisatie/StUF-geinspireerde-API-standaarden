@@ -18,11 +18,10 @@ title: Documentatie Xxxxxx
 ## Algemeen
 
 Moderne StUF API-standaarden zijn een geavanceerde aanpak voor gegevensuitwisseling binnen en tussen overheidsorganisaties. Deze standaarden bieden een gestandaardiseerd mechanisme om gegevens en berichten efficiënt uit te wisselen, met behoud van de betrouwbaarheid en functionaliteit die StUF biedt, maar met de voordelen van moderne technologieën en architecturen.
+
 [Naar boven](./documentatie)
 
-[Overzicht waarin aangegeven wordt welke API-specificatie documentatie aanwezig is, hoe deze opgezet is en zaken zoals onderlinge samenhang. 
- In het geval van de vorm en structuur van documentatie-artefacten kan bijv. gebruik gemaakt worden van coderingen. 
- Indien dat het geval is wordt daarover op deze pagina uitleg gegeven.]
+
 
 ## Uitgangspunten
 Het doel van de repository is om een centrale plek te bieden waar alle relevante informatie, specificaties en tools voor de transitie van StUF- naar API-standaarden beschikbaar zijn. Concrete resultaten zijn:

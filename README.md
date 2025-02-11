@@ -12,3 +12,10 @@ Deze repository bevat alle benodigde middelen voor de ontwikkeling van een nieuw
 ## Vragen en Bijdragen
 
 Lees meer over hoe je vragen kunt stellen, bugs kunt melden en bij kunt dragen (met code of documentatie) in [`CONTRIBUTING.md`](CONTRIBUTING.md) (EN).
+
+## Documentatie
+
+## Beheer en ondersteunig
+- Contact: standaarden.ondersteuning@vng.nl
+
+  

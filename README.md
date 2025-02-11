@@ -31,4 +31,4 @@ Om de API-specificaties en aanvullende bedrijfsregels van de *standaard* te raad
 
 Copyright © 2018–2025 VNG Realisatie.
 
-Licensed under the [European Union Public License (EUPL) v1.2](LICENSE).
+Licensed under the [European Union Public License (EUPL) v1.2] (LICENSE).

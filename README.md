@@ -20,4 +20,15 @@ Lees meer over hoe je vragen kunt stellen, bugs kunt melden en bij kunt dragen (
 
 ## API specificaties 
 
-Om de API specs en aanvullende bedrijfsregels van de *standaard* te bekijken, volg de relevante links in dit [overzicht](https://vng-realisatie.github.io/).
+Om de API-specificaties en aanvullende bedrijfsregels van de *standaard* te raadplegen, volg de relevante links in dit [overzicht](https://vng-realisatie.github.io/).
+
+## Migratie
+
+## Snelle links
+
+
+## Licentie 
+
+Copyright © 2018–2025 VNG Realisatie.
+
+Licensed under the [European Union Public License (EUPL) v1.2](LICENSE).

@@ -3,7 +3,7 @@
 | Kennis centrum Architectuur | Ilias Cheqri |
 <hr/>
 
-**StUF geinspireerde API-standaarden** 
+**Doorontwikkeling naar API** 
 =====
 VNG Realisatie heeft enkele jaren geleden besloten om over te stappen van de uitwisselstandaarden gebaseerd op StUF naar moderne koppelvlakken op basis van API-standaarden. Deze keuze vereist een rapportage waarin richtlijnen worden gegeven voor de vervanging van bestaande StUF-koppelvlakken door API-gebaseerde koppelvlakken. Er is in 2022 een vooronderzoek uitgevoerd, gericht op het identificeren van de verschillen tussen StUF en API’s met als resultaat een transitieplan. 
 
